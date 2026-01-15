@@ -1,37 +1,114 @@
 [
   {
+    "id": 1,
     "alias": "Copywriter",
     "titolo": "Struttura Blog Post SEO",
     "difficolta": "Facile",
-    "tags": "seo, blog, scrittura",
-    "testo": "Agisci come un esperto SEO copywriter. Crea una struttura dettagliata per un articolo di blog sul tema: [INSERISCI TEMA]. La struttura deve includere: 1. Un titolo H1 accattivante (Clickbait ma onesto). 2. 3-5 sottotitoli H2 ottimizzati per le keyword. 3. Bullet points per ogni sezione che spieghino cosa scrivere. Il tono deve essere [INSERISCI TONO, ES: PROFESSIONALE/DIVERTENTE]."
+    "tags": "seo, blog, scrittura, content",
+    "testo": "Agisci come un esperto SEO copywriter. Crea una struttura dettagliata per un articolo di blog sul tema: [INSERISCI TEMA]. La struttura deve includere: 1. Un titolo H1 accattivante (Clickbait ma onesto). 2. 3-5 sottotitoli H2 ottimizzati per le keyword. 3. Bullet points per ogni sezione che spieghino cosa scrivere. Il tono deve essere [INSERISCI TONO]."
   },
   {
+    "id": 2,
     "alias": "Developer",
     "titolo": "Spiegami il Codice (Debug)",
     "difficolta": "Medio",
-    "tags": "coding, debug, learning",
+    "tags": "coding, debug, learning, javascript",
     "testo": "Agisci come un Senior Software Engineer. Analizza il seguente snippet di codice: [INCOLLA CODICE QUI]. 1. Spiegami cosa fa riga per riga. 2. Identifica eventuali bug o problemi di sicurezza. 3. Proponi una versione ottimizzata e più pulita (Clean Code)."
   },
   {
+    "id": 3,
     "alias": "Marketing",
     "titolo": "Piano Editoriale Mensile",
     "difficolta": "Difficile",
-    "tags": "social media, strategia, instagram",
-    "testo": "Agisci come Social Media Manager. Crea un piano editoriale di 4 settimane per [INSERISCI PIATTAFORMA, ES: LINKEDIN/INSTAGRAM] per un brand che si occupa di [INSERISCI SETTORE]. Includi per ogni post: 1. Idea del contenuto. 2. Caption bozza. 3. Suggerimento per l'immagine/video. 4. 5 Hashtag pertinenti. L'obiettivo è [INSERISCI OBIETTIVO, ES: LEAD GENERATION]."
+    "tags": "social media, strategia, instagram, linkedin",
+    "testo": "Agisci come Social Media Manager. Crea un piano editoriale di 4 settimane per [INSERISCI PIATTAFORMA] per un brand che si occupa di [INSERISCI SETTORE]. Includi per ogni post: 1. Idea del contenuto. 2. Caption bozza. 3. Suggerimento per l'immagine/video. 4. 5 Hashtag pertinenti. L'obiettivo è [INSERISCI OBIETTIVO]."
   },
   {
+    "id": 4,
     "alias": "UX/UI Designer",
     "titolo": "Checklist Usabilità",
     "difficolta": "Facile",
-    "tags": "ux, audit, design",
-    "testo": "Agisci come esperto di UX Research. Crea una checklist di 10 punti per valutare l'usabilità di una pagina di [INSERISCI TIPO PAGINA, ES: CHECKOUT E-COMMERCE]. Focalizzati su accessibilità, chiarezza e facilità d'uso per l'utente mobile."
+    "tags": "ux, audit, design, accessibilità",
+    "testo": "Agisci come esperto di UX Research. Crea una checklist di 10 punti per valutare l'usabilità di una pagina di [INSERISCI TIPO PAGINA]. Focalizzati su accessibilità, chiarezza e facilità d'uso per l'utente mobile."
   },
   {
+    "id": 5,
     "alias": "Business",
     "titolo": "Analisi SWOT",
     "difficolta": "Medio",
-    "tags": "strategia, business plan, analisi",
+    "tags": "strategia, business plan, analisi, startup",
     "testo": "Agisci come consulente aziendale strategico. Esegui un'analisi SWOT (Strengths, Weaknesses, Opportunities, Threats) per [INSERISCI NOME AZIENDA O PROGETTO]. Il contesto è: [DESCRIVI BREVEMENTE LA SITUAZIONE]. Fornisci 3 punti per ogni quadrante e una conclusione strategica finale."
+  },
+  {
+    "id": 6,
+    "alias": "Copywriter",
+    "titolo": "Email Fredda (Cold Outreach)",
+    "difficolta": "Medio",
+    "tags": "email, sales, b2b, marketing",
+    "testo": "Scrivi una cold email B2B per vendere [INSERISCI PRODOTTO/SERVIZIO] a un [INSERISCI RUOLO DESTINATARIO, ES: CEO]. Usa la tecnica AIDA (Attenzione, Interesse, Desiderio, Azione). La mail deve essere breve (max 150 parole), personalizzata e contenere una Call to Action chiara per una call conoscitiva."
+  },
+  {
+    "id": 7,
+    "alias": "Developer",
+    "titolo": "Generatore Regex",
+    "difficolta": "Difficile",
+    "tags": "regex, coding, validazione, dati",
+    "testo": "Agisci come esperto di espressioni regolari. Scrivi una Regex per identificare [DESCRIVI COSA TROVARE, ES: INDIRIZZI EMAIL AZIENDALI]. Spiega come funziona la regex scomponendola pezzo per pezzo e fornisci 3 esempi di stringhe che verrebbero catturate e 3 che verrebbero escluse."
+  },
+  {
+    "id": 8,
+    "alias": "Marketing",
+    "titolo": "Script Video TikTok/Reels",
+    "difficolta": "Facile",
+    "tags": "video, script, virale, tiktok",
+    "testo": "Scrivi uno script per un video breve (30-60 secondi) su [ARGOMENTO]. Struttura: 1. Hook (primi 3 secondi per catturare l'attenzione). 2. Body (il valore o la spiegazione). 3. CTA (Call to Action finale). Indica anche suggerimenti visivi o di montaggio tra parentesi."
+  },
+  {
+    "id": 9,
+    "alias": "Business",
+    "titolo": "Pitch Deck Investitori",
+    "difficolta": "Difficile",
+    "tags": "investitori, startup, presentazione, pitch",
+    "testo": "Delinea la struttura per un Pitch Deck di 10 slide per una startup nel settore [SETTORE]. Per ogni slide, descrivi: Titolo, Contenuto chiave (bullet points) e quale emozione o messaggio deve trasmettere agli investitori. Includi slide su Problema, Soluzione, Mercato e Business Model."
+  },
+  {
+    "id": 10,
+    "alias": "UX/UI Designer",
+    "titolo": "Creazione User Persona",
+    "difficolta": "Medio",
+    "tags": "persona, ricerca, user journey, marketing",
+    "testo": "Crea una User Persona dettagliata per un'app di [TIPO APP]. Nome: [INVENTA NOME]. Includi: Età, Occupazione, Bio breve, Obiettivi principali (Goals), Frustrazioni (Pain points), Marchi preferiti e Livello di competenza tecnologica."
+  },
+  {
+    "id": 11,
+    "alias": "Developer",
+    "titolo": "Generazione Unit Test",
+    "difficolta": "Medio",
+    "tags": "testing, jest, qa, coding",
+    "testo": "Scrivi una suite di unit test (usando il framework [INSERISCI FRAMEWORK, ES: JEST/PYTEST]) per la seguente funzione: [INCOLLA FUNZIONE]. Includi test per: 1. Caso standard di successo. 2. Edge cases (input nulli, array vuoti, ecc.). 3. Gestione degli errori."
+  },
+  {
+    "id": 12,
+    "alias": "Copywriter",
+    "titolo": "Riscrivi Tono di Voce",
+    "difficolta": "Facile",
+    "tags": "editing, tono, brand, rewrite",
+    "testo": "Riscrivi il seguente testo rendendolo più [INSERISCI NUOVO TONO, ES: IRONICO/EMPATICO] ma mantenendo il significato originale. Testo originale: '[INSERISCI TESTO ORIGINALE]'."
+  },
+  {
+    "id": 13,
+    "alias": "Marketing",
+    "titolo": "Google Ads Headline",
+    "difficolta": "Facile",
+    "tags": "ads, ppc, google, copywriting",
+    "testo": "Scrivi 10 varianti di titoli per una campagna Google Ads che promuove [PRODOTTO]. I titoli devono essere sotto i 30 caratteri. Includi la keyword [KEYWORD] in almeno 5 varianti. Usa leve psicologiche come urgenza, scarsità o prova sociale."
+  },
+  {
+    "id": 14,
+    "alias": "Business",
+    "titolo": "Email Gestione Crisi",
+    "difficolta": "Difficile",
+    "tags": "crisi, pr, comunicazione, email",
+    "testo": "Scrivi una email formale da inviare ai clienti per scusarsi di [INSERISCI PROBLEMA, ES: DISSERVIZIO SERVER]. Struttura: 1. Ammissione chiara del problema (senza scuse patetiche). 2. Spiegazione di cosa è successo. 3. Cosa stiamo facendo per risolvere. 4. Compensazione o rassicurazione per il futuro."
   }
 ]
