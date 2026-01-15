@@ -2,113 +2,401 @@
   {
     "id": 1,
     "alias": "Copywriter",
-    "titolo": "Struttura Blog Post SEO",
+    "titolo": "Titoli Clickbait Etici",
     "difficolta": "Facile",
-    "tags": "seo, blog, scrittura, content",
-    "testo": "Agisci come un esperto SEO copywriter. Crea una struttura dettagliata per un articolo di blog sul tema: [INSERISCI TEMA]. La struttura deve includere: 1. Un titolo H1 accattivante (Clickbait ma onesto). 2. 3-5 sottotitoli H2 ottimizzati per le keyword. 3. Bullet points per ogni sezione che spieghino cosa scrivere. Il tono deve essere [INSERISCI TONO]."
+    "tags": "blog, titoli, marketing",
+    "testo": "Scrivi 10 varianti di titoli per un articolo di blog su [ARGOMENTO]. Usa leve emotive come curiosità, paura di perdere un'occasione (FOMO) o utilità immediata. I titoli devono rimanere onesti rispetto al contenuto."
   },
   {
     "id": 2,
-    "alias": "Developer",
-    "titolo": "Spiegami il Codice (Debug)",
+    "alias": "Copywriter",
+    "titolo": "Descrizione Prodotto E-commerce",
     "difficolta": "Medio",
-    "tags": "coding, debug, learning, javascript",
-    "testo": "Agisci come un Senior Software Engineer. Analizza il seguente snippet di codice: [INCOLLA CODICE QUI]. 1. Spiegami cosa fa riga per riga. 2. Identifica eventuali bug o problemi di sicurezza. 3. Proponi una versione ottimizzata e più pulita (Clean Code)."
+    "tags": "sales, e-commerce, descrizione",
+    "testo": "Scrivi una descrizione prodotto persuasiva per [NOME PRODOTTO]. Target: [CLIENTE IDEALE]. Struttura: 1. Gancio emotivo (problema). 2. Caratteristiche tecniche trasformate in benefici. 3. Call to Action finale."
   },
   {
     "id": 3,
-    "alias": "Marketing",
-    "titolo": "Piano Editoriale Mensile",
+    "alias": "Copywriter",
+    "titolo": "Script Video YouTube",
     "difficolta": "Difficile",
-    "tags": "social media, strategia, instagram, linkedin",
-    "testo": "Agisci come Social Media Manager. Crea un piano editoriale di 4 settimane per [INSERISCI PIATTAFORMA] per un brand che si occupa di [INSERISCI SETTORE]. Includi per ogni post: 1. Idea del contenuto. 2. Caption bozza. 3. Suggerimento per l'immagine/video. 4. 5 Hashtag pertinenti. L'obiettivo è [INSERISCI OBIETTIVO]."
+    "tags": "video, youtube, script",
+    "testo": "Crea uno script dettagliato per un video YouTube di 10 minuti su [TEMA]. Includi: Hook iniziale (0-60s), Sigla, Corpo del video diviso in 3 punti chiave, Sponsor break fittizio, e Conclusione con invito all'iscrizione."
   },
   {
     "id": 4,
-    "alias": "UX/UI Designer",
-    "titolo": "Checklist Usabilità",
+    "alias": "Copywriter",
+    "titolo": "Newsletter Benvenuto",
     "difficolta": "Facile",
-    "tags": "ux, audit, design, accessibilità",
-    "testo": "Agisci come esperto di UX Research. Crea una checklist di 10 punti per valutare l'usabilità di una pagina di [INSERISCI TIPO PAGINA]. Focalizzati su accessibilità, chiarezza e facilità d'uso per l'utente mobile."
+    "tags": "email, newsletter, onbarding",
+    "testo": "Scrivi la prima email di una sequenza di benvenuto per chi si iscrive alla newsletter di [NOME BRAND]. Tono: amichevole e accogliente. Obiettivo: far scaricare un freebie e presentare i valori del brand."
   },
   {
     "id": 5,
-    "alias": "Business",
-    "titolo": "Analisi SWOT",
+    "alias": "Copywriter",
+    "titolo": "Post LinkedIn Storytelling",
     "difficolta": "Medio",
-    "tags": "strategia, business plan, analisi, startup",
-    "testo": "Agisci come consulente aziendale strategico. Esegui un'analisi SWOT (Strengths, Weaknesses, Opportunities, Threats) per [INSERISCI NOME AZIENDA O PROGETTO]. Il contesto è: [DESCRIVI BREVEMENTE LA SITUAZIONE]. Fornisci 3 punti per ogni quadrante e una conclusione strategica finale."
+    "tags": "social, linkedin, personal branding",
+    "testo": "Scrivi un post per LinkedIn usando lo storytelling. Racconta una sfida professionale che ho superato legata a [ARGOMENTO]. Inizia con una frase a effetto, sviluppa il conflitto e chiudi con una lezione imparata."
   },
   {
     "id": 6,
     "alias": "Copywriter",
-    "titolo": "Email Fredda (Cold Outreach)",
-    "difficolta": "Medio",
-    "tags": "email, sales, b2b, marketing",
-    "testo": "Scrivi una cold email B2B per vendere [INSERISCI PRODOTTO/SERVIZIO] a un [INSERISCI RUOLO DESTINATARIO, ES: CEO]. Usa la tecnica AIDA (Attenzione, Interesse, Desiderio, Azione). La mail deve essere breve (max 150 parole), personalizzata e contenere una Call to Action chiara per una call conoscitiva."
+    "titolo": "Riscrivi in Tono Formale",
+    "difficolta": "Facile",
+    "tags": "editing, tono, business",
+    "testo": "Riscrivi il seguente testo informale rendendolo adatto a una comunicazione ufficiale aziendale: '[INSERISCI TESTO]'. Mantieni il significato ma eleva il vocabolario."
   },
   {
     "id": 7,
-    "alias": "Developer",
-    "titolo": "Generatore Regex",
-    "difficolta": "Difficile",
-    "tags": "regex, coding, validazione, dati",
-    "testo": "Agisci come esperto di espressioni regolari. Scrivi una Regex per identificare [DESCRIVI COSA TROVARE, ES: INDIRIZZI EMAIL AZIENDALI]. Spiega come funziona la regex scomponendola pezzo per pezzo e fornisci 3 esempi di stringhe che verrebbero catturate e 3 che verrebbero escluse."
+    "alias": "Copywriter",
+    "titolo": "Landing Page Hero Section",
+    "difficolta": "Medio",
+    "tags": "web, landing page, conversion",
+    "testo": "Scrivi il copy per la Hero Section di una landing page che vende [SERVIZIO]. Includi: Headline (promessa principale), Sub-headline (come lo facciamo) e testo per il bottone CTA (Call to Action)."
   },
   {
     "id": 8,
-    "alias": "Marketing",
-    "titolo": "Script Video TikTok/Reels",
+    "alias": "Copywriter",
+    "titolo": "Bio Instagram",
     "difficolta": "Facile",
-    "tags": "video, script, virale, tiktok",
-    "testo": "Scrivi uno script per un video breve (30-60 secondi) su [ARGOMENTO]. Struttura: 1. Hook (primi 3 secondi per catturare l'attenzione). 2. Body (il valore o la spiegazione). 3. CTA (Call to Action finale). Indica anche suggerimenti visivi o di montaggio tra parentesi."
+    "tags": "social, instagram, bio",
+    "testo": "Crea 5 varianti per una Bio di Instagram per [PROFESSIONISTA/BRAND]. Limite 150 caratteri. Deve includere: chi sono, cosa faccio, e un link in bio invitante."
   },
   {
     "id": 9,
-    "alias": "Business",
-    "titolo": "Pitch Deck Investitori",
+    "alias": "Copywriter",
+    "titolo": "Case Study B2B",
     "difficolta": "Difficile",
-    "tags": "investitori, startup, presentazione, pitch",
-    "testo": "Delinea la struttura per un Pitch Deck di 10 slide per una startup nel settore [SETTORE]. Per ogni slide, descrivi: Titolo, Contenuto chiave (bullet points) e quale emozione o messaggio deve trasmettere agli investitori. Includi slide su Problema, Soluzione, Mercato e Business Model."
+    "tags": "case study, b2b, sales",
+    "testo": "Scrivi una bozza per un Case Study di successo. Cliente: [NOME CLIENTE]. Problema iniziale: [PROBLEMA]. Soluzione adottata: [SOLUZIONE]. Risultati ottenuti (usa numeri e percentuali). Testimonianza fittizia del cliente."
   },
   {
     "id": 10,
-    "alias": "UX/UI Designer",
-    "titolo": "Creazione User Persona",
+    "alias": "Copywriter",
+    "titolo": "FAQ Sezione",
     "difficolta": "Medio",
-    "tags": "persona, ricerca, user journey, marketing",
-    "testo": "Crea una User Persona dettagliata per un'app di [TIPO APP]. Nome: [INVENTA NOME]. Includi: Età, Occupazione, Bio breve, Obiettivi principali (Goals), Frustrazioni (Pain points), Marchi preferiti e Livello di competenza tecnologica."
+    "tags": "web, faq, supporto",
+    "testo": "Genera una lista di 5 Domande Frequenti (FAQ) con relative risposte per un servizio di [NOME SERVIZIO]. Le risposte devono rassicurare l'utente e superare le obiezioni all'acquisto."
   },
   {
     "id": 11,
     "alias": "Developer",
-    "titolo": "Generazione Unit Test",
-    "difficolta": "Medio",
-    "tags": "testing, jest, qa, coding",
-    "testo": "Scrivi una suite di unit test (usando il framework [INSERISCI FRAMEWORK, ES: JEST/PYTEST]) per la seguente funzione: [INCOLLA FUNZIONE]. Includi test per: 1. Caso standard di successo. 2. Edge cases (input nulli, array vuoti, ecc.). 3. Gestione degli errori."
+    "titolo": "Spiegami il Codice",
+    "difficolta": "Facile",
+    "tags": "learning, coding, spiegazione",
+    "testo": "Spiegami questo snippet di codice [LINGUAGGIO] come se avessi 10 anni: [INSERISCI CODICE]. Usa analogie semplici per descrivere la logica."
   },
   {
     "id": 12,
-    "alias": "Copywriter",
-    "titolo": "Riscrivi Tono di Voce",
-    "difficolta": "Facile",
-    "tags": "editing, tono, brand, rewrite",
-    "testo": "Riscrivi il seguente testo rendendolo più [INSERISCI NUOVO TONO, ES: IRONICO/EMPATICO] ma mantenendo il significato originale. Testo originale: '[INSERISCI TESTO ORIGINALE]'."
+    "alias": "Developer",
+    "titolo": "Generatore Regex",
+    "difficolta": "Difficile",
+    "tags": "regex, tools, validazione",
+    "testo": "Crea una Regular Expression (Regex) per validare [FORMATO, ES: TARGA ITALIANA]. Spiega la sintassi usata."
   },
   {
     "id": 13,
-    "alias": "Marketing",
-    "titolo": "Google Ads Headline",
-    "difficolta": "Facile",
-    "tags": "ads, ppc, google, copywriting",
-    "testo": "Scrivi 10 varianti di titoli per una campagna Google Ads che promuove [PRODOTTO]. I titoli devono essere sotto i 30 caratteri. Includi la keyword [KEYWORD] in almeno 5 varianti. Usa leve psicologiche come urgenza, scarsità o prova sociale."
+    "alias": "Developer",
+    "titolo": "Query SQL Complessa",
+    "difficolta": "Medio",
+    "tags": "database, sql, backend",
+    "testo": "Scrivi una query SQL per selezionare [DATI] dalla tabella A e unirli alla tabella B dove la condizione è [CONDIZIONE]. Ordina i risultati per data decrescente."
   },
   {
     "id": 14,
-    "alias": "Business",
-    "titolo": "Email Gestione Crisi",
+    "alias": "Developer",
+    "titolo": "Refactoring Clean Code",
+    "difficolta": "Medio",
+    "tags": "refactoring, clean code, best practices",
+    "testo": "Riscrivi questa funzione [LINGUAGGIO] seguendo i principi del Clean Code (nomi variabili chiari, funzioni piccole, niente commenti inutili): [CODICE]."
+  },
+  {
+    "id": 15,
+    "alias": "Developer",
+    "titolo": "Generazione Dati Dummy",
+    "difficolta": "Facile",
+    "tags": "testing, json, data",
+    "testo": "Genera un file JSON contenente un array di 10 oggetti utente finti. Ogni oggetto deve avere: id, nome, email, ruolo (admin/user) e data iscrizione."
+  },
+  {
+    "id": 16,
+    "alias": "Developer",
+    "titolo": "Unit Test Jest",
+    "difficolta": "Medio",
+    "tags": "testing, javascript, jest",
+    "testo": "Scrivi uno unit test in Jest per verificare che la funzione [NOME FUNZIONE] restituisca [RISULTATO ATTESO] quando riceve [INPUT]. Includi anche un test case per gestire l'errore."
+  },
+  {
+    "id": 17,
+    "alias": "Developer",
+    "titolo": "Componente React Base",
+    "difficolta": "Facile",
+    "tags": "frontend, react, ui",
+    "testo": "Scrivi il codice per un componente React funzionale chiamato [NOME COMPONENTE] che accetta le props [LISTA PROPS] e renderizza un [ELEMENTO HTML]."
+  },
+  {
+    "id": 18,
+    "alias": "Developer",
+    "titolo": "Converti Codice",
     "difficolta": "Difficile",
-    "tags": "crisi, pr, comunicazione, email",
-    "testo": "Scrivi una email formale da inviare ai clienti per scusarsi di [INSERISCI PROBLEMA, ES: DISSERVIZIO SERVER]. Struttura: 1. Ammissione chiara del problema (senza scuse patetiche). 2. Spiegazione di cosa è successo. 3. Cosa stiamo facendo per risolvere. 4. Compensazione o rassicurazione per il futuro."
+    "tags": "conversion, python, javascript",
+    "testo": "Converti questo script scritto in Python in JavaScript (Node.js). Mantieni la stessa logica e gestisci eventuali differenze nelle librerie standard: [CODICE PYTHON]."
+  },
+  {
+    "id": 19,
+    "alias": "Developer",
+    "titolo": "Git Commands Help",
+    "difficolta": "Facile",
+    "tags": "git, version control, terminal",
+    "testo": "Quali comandi Git devo usare per: 1. Creare un nuovo branch. 2. Committare le modifiche. 3. Pushare il branch sul remote repository?"
+  },
+  {
+    "id": 20,
+    "alias": "Developer",
+    "titolo": "Debug Errore StackTrace",
+    "difficolta": "Medio",
+    "tags": "debug, error, fix",
+    "testo": "Analizza questo stack trace di errore e dimmi quale potrebbe essere la causa e come risolverlo: [INCOLLA ERRORE]."
+  },
+  {
+    "id": 21,
+    "alias": "Marketing",
+    "titolo": "Calendario Editoriale",
+    "difficolta": "Medio",
+    "tags": "social, planning, strategia",
+    "testo": "Crea un calendario editoriale settimanale per [PIATTAFORMA] per un'azienda di [SETTORE]. Includi: Lunedì (Educativo), Mercoledì (Engaging/Meme), Venerdì (Vendita/Promo)."
+  },
+  {
+    "id": 22,
+    "alias": "Marketing",
+    "titolo": "Analisi Competitor",
+    "difficolta": "Difficile",
+    "tags": "analisi, market research, competitor",
+    "testo": "Fai un'analisi dei competitor per [IL MIO BRAND]. Identifica 3 competitor principali nel settore [SETTORE]. Per ognuno elenca: Punti di forza, Punti deboli e Strategia di comunicazione apparente."
+  },
+  {
+    "id": 23,
+    "alias": "Marketing",
+    "titolo": "Persona Buyer",
+    "difficolta": "Medio",
+    "tags": "strategia, target, persona",
+    "testo": "Crea una Buyer Persona dettagliata per il prodotto [PRODOTTO]. Includi: Dati demografici, Interessi, Paure, Desideri e Obiezioni all'acquisto."
+  },
+  {
+    "id": 24,
+    "alias": "Marketing",
+    "titolo": "Idee Lead Magnet",
+    "difficolta": "Facile",
+    "tags": "lead generation, funnel, idee",
+    "testo": "Dammi 5 idee per un Lead Magnet (contenuto gratuito) per attirare potenziali clienti interessati a [ARGOMENTO]. Deve essere qualcosa di alto valore ma veloce da consumare (es. PDF, Checklist)."
+  },
+  {
+    "id": 25,
+    "alias": "Marketing",
+    "titolo": "Email Recupero Carrello",
+    "difficolta": "Medio",
+    "tags": "email marketing, e-commerce, automazione",
+    "testo": "Scrivi una email automatica da inviare a un utente che ha abbandonato il carrello su un e-commerce di [SETTORE]. Usa un tono empatico e offri un piccolo sconto o un motivo per completare l'acquisto subito."
+  },
+  {
+    "id": 26,
+    "alias": "Marketing",
+    "titolo": "Hashtag Strategy",
+    "difficolta": "Facile",
+    "tags": "instagram, social, visibilità",
+    "testo": "Genera 3 set di 30 hashtag per un post Instagram su [ARGOMENTO]. Dividili in: Alta competizione, Media competizione, Nicchia specifica."
+  },
+  {
+    "id": 27,
+    "alias": "Marketing",
+    "titolo": "Risposta a Recensione Negativa",
+    "difficolta": "Medio",
+    "tags": "customer care, reputation, recensioni",
+    "testo": "Scrivi una risposta professionale ed educata a una recensione negativa su Google Maps dove un cliente si lamenta di [LAMENTELA]. Offri una soluzione e invita al contatto privato."
+  },
+  {
+    "id": 28,
+    "alias": "Marketing",
+    "titolo": "Influencer Outreach",
+    "difficolta": "Medio",
+    "tags": "pr, influencer, collaborazione",
+    "testo": "Scrivi un messaggio DM (Direct Message) per contattare un influencer di nicchia [NICCHIA] per proporre una collaborazione (barter o paid). Sii breve, complimentati genuinamente e spiega il valore per lui/lei."
+  },
+  {
+    "id": 29,
+    "alias": "Marketing",
+    "titolo": "Slogan Pubblicitario",
+    "difficolta": "Facile",
+    "tags": "branding, slogan, creativo",
+    "testo": "Inventa 10 slogan brevi e memorabili per un nuovo brand di [PRODOTTO/SERVIZIO]. Il messaggio chiave deve essere [MESSAGGIO]."
+  },
+  {
+    "id": 30,
+    "alias": "Marketing",
+    "titolo": "Google Ads Headlines",
+    "difficolta": "Facile",
+    "tags": "sem, ads, ppc",
+    "testo": "Scrivi 5 titoli per annunci Google Ads (max 30 caratteri) per promuovere [OFFERTA]. Usa keyword come [KEYWORD 1], [KEYWORD 2]."
+  },
+  {
+    "id": 31,
+    "alias": "UX/UI Designer",
+    "titolo": "Analisi Euristica",
+    "difficolta": "Difficile",
+    "tags": "ux, audit, usabilità",
+    "testo": "Conduci un'analisi euristica semplificata della homepage di [SITO WEB]. Valuta in base alle 10 euristiche di Nielsen e segnala i 3 problemi principali di usabilità."
+  },
+  {
+    "id": 32,
+    "alias": "UX/UI Designer",
+    "titolo": "Microcopy Error Message",
+    "difficolta": "Facile",
+    "tags": "ux writing, microcopy, errori",
+    "testo": "Scrivi 3 varianti di un messaggio di errore per un login fallito (password errata). Il tono deve essere utile e non colpevolizzante. Variante 1: Formale. Variante 2: Amichevole. Variante 3: Conciso."
+  },
+  {
+    "id": 33,
+    "alias": "UX/UI Designer",
+    "titolo": "Struttura Sitemap",
+    "difficolta": "Medio",
+    "tags": "ia, architettura, sitemap",
+    "testo": "Proponi una struttura di sitemap (albero di navigazione) per un sito web di [TIPO SITO, ES: RISTORANTE]. Includi menu principale e footer."
+  },
+  {
+    "id": 34,
+    "alias": "UX/UI Designer",
+    "titolo": "Idee Palette Colori",
+    "difficolta": "Facile",
+    "tags": "ui, colori, design",
+    "testo": "Suggerisci 3 palette di colori per un'app di [TIPO APP]. Per ogni palette indica i codici HEX per: Colore Primario, Secondario, Accento e Sfondo. Spiega la psicologia dietro la scelta."
+  },
+  {
+    "id": 35,
+    "alias": "UX/UI Designer",
+    "titolo": "User Flow Registrazione",
+    "difficolta": "Medio",
+    "tags": "flow, ux, processi",
+    "testo": "Descrivi step-by-step lo User Flow ideale per la registrazione a un servizio [TIPO SERVIZIO] da mobile. Riduci al minimo l'attrito. Includi passaggi come 'Inserimento email', 'Verifica', 'Onboarding'."
+  },
+  {
+    "id": 36,
+    "alias": "UX/UI Designer",
+    "titolo": "Domande Intervista Utente",
+    "difficolta": "Medio",
+    "tags": "research, interviste, ux",
+    "testo": "Scrivi una lista di 10 domande aperte per un'intervista utente volta a capire le abitudini di [TEMA, ES: ACQUISTO ONLINE DI CIBO]. Evita domande che suggeriscono la risposta (leading questions)."
+  },
+  {
+    "id": 37,
+    "alias": "UX/UI Designer",
+    "titolo": "Accessibilità Checklist",
+    "difficolta": "Difficile",
+    "tags": "a11y, accessibilità, inclusione",
+    "testo": "Crea una checklist di verifica per l'accessibilità (WCAG 2.1) per un form di contatto. Includi punti su contrasto colori, etichette (labels), focus state e navigazione da tastiera."
+  },
+  {
+    "id": 38,
+    "alias": "UX/UI Designer",
+    "titolo": "Prompt Midjourney UI",
+    "difficolta": "Medio",
+    "tags": "ai art, midjourney, ispirazione",
+    "testo": "Scrivi un prompt dettagliato per Midjourney per generare un mockup di interfaccia UI per una dashboard di [TIPO DASHBOARD]. Stile: [STILE, ES: MINIMALISTA, DARK MODE, FUTURISTICO]."
+  },
+  {
+    "id": 39,
+    "alias": "UX/UI Designer",
+    "titolo": "Nome App Creativo",
+    "difficolta": "Facile",
+    "tags": "naming, brand, idee",
+    "testo": "Genera 10 nomi creativi e brevi per una nuova app che fa [FUNZIONE PRINCIPALE]. I nomi devono essere facili da pronunciare e memorabili."
+  },
+  {
+    "id": 40,
+    "alias": "UX/UI Designer",
+    "titolo": "Wireframe Descrizione",
+    "difficolta": "Medio",
+    "tags": "wireframe, layout, struttura",
+    "testo": "Descrivi testualmente come disporresti gli elementi in un wireframe per la pagina 'Chi Siamo' di un'agenzia creativa. Dove metti il team? La storia? I valori?"
+  },
+  {
+    "id": 41,
+    "alias": "Business",
+    "titolo": "Analisi SWOT",
+    "difficolta": "Medio",
+    "tags": "strategia, analisi, business",
+    "testo": "Esegui un'analisi SWOT (Punti di forza, Debolezze, Opportunità, Minacce) per un'azienda fittizia che vende [PRODOTTO] in un mercato [CONTESTO MERCATO]."
+  },
+  {
+    "id": 42,
+    "alias": "Business",
+    "titolo": "Pitch Deck Slide",
+    "difficolta": "Difficile",
+    "tags": "startup, investitori, pitch",
+    "testo": "Scrivi il testo per la slide 'Problema' di un Pitch Deck per una startup che risolve [PROBLEMA]. Usa bullet points per evidenziare la gravità e la frequenza del problema per il target."
+  },
+  {
+    "id": 43,
+    "alias": "Business",
+    "titolo": "Email Fredda B2B",
+    "difficolta": "Medio",
+    "tags": "sales, outreach, email",
+    "testo": "Scrivi una cold email B2B per proporre i servizi di [SERVIZIO] al CEO di un'azienda target. Usa un approccio personalizzato, breve e focalizzato sul valore, non sulle caratteristiche."
+  },
+  {
+    "id": 44,
+    "alias": "Business",
+    "titolo": "KPI Definizione",
+    "difficolta": "Facile",
+    "tags": "metriche, kpi, management",
+    "testo": "Quali sono i 5 Key Performance Indicators (KPI) più importanti da monitorare per un business di [TIPO BUSINESS, ES: SAAS]? Spiega brevemente perché ognuno è importante."
+  },
+  {
+    "id": 45,
+    "alias": "Business",
+    "titolo": "Job Description",
+    "difficolta": "Medio",
+    "tags": "hr, recruiting, assunzioni",
+    "testo": "Scrivi una Job Description accattivante per la posizione di [RUOLO] presso un'azienda [CULTURA AZIENDALE]. Includi responsabilità, requisiti e benefit, usando un tono che attiri talenti."
+  },
+  {
+    "id": 46,
+    "alias": "Business",
+    "titolo": "Risposta Negoziazione",
+    "difficolta": "Difficile",
+    "tags": "negoziazione, sales, contratti",
+    "testo": "Scrivi una email di risposta a un cliente che chiede uno sconto del 20% sul preventivo. Rifiuta gentilmente lo sconto ma offri un valore aggiunto alternativo (es. supporto esteso) per chiudere comunque l'accordo."
+  },
+  {
+    "id": 47,
+    "alias": "Business",
+    "titolo": "Vision & Mission",
+    "difficolta": "Facile",
+    "tags": "branding, strategia, valori",
+    "testo": "Scrivi 3 opzioni di 'Vision' e 'Mission' statement per una nuova azienda che si occupa di [SETTORE] e punta sulla sostenibilità."
+  },
+  {
+    "id": 48,
+    "alias": "Business",
+    "titolo": "Agenda Meeting Efficace",
+    "difficolta": "Facile",
+    "tags": "produttività, meeting, management",
+    "testo": "Crea un'agenda strutturata per una riunione di kick-off di progetto della durata di 1 ora. Assegna un tempo a ogni punto (Introduzione, Obiettivi, Ruoli, Next Steps)."
+  },
+  {
+    "id": 49,
+    "alias": "Business",
+    "titolo": "Feedback Dipendente",
+    "difficolta": "Medio",
+    "tags": "hr, feedback, management",
+    "testo": "Scrivi una traccia per dare un feedback costruttivo a un dipendente che ha ottime capacità tecniche ma scarse doti di comunicazione. Usa il metodo 'Sandwich' (Positivo - Migliorabile - Positivo)."
+  },
+  {
+    "id": 50,
+    "alias": "Business",
+    "titolo": "Executive Summary",
+    "difficolta": "Difficile",
+    "tags": "report, sintesi, management",
+    "testo": "Riassumi il seguente report lungo in un Executive Summary di 200 parole destinato al Board of Directors. Evidenzia solo i risultati finanziari chiave e le raccomandazioni strategiche: [INSERISCI REPORT]."
   }
 ]
