@@ -1,0 +1,37 @@
+[
+  {
+    "alias": "Copywriter",
+    "titolo": "Struttura Blog Post SEO",
+    "difficolta": "Facile",
+    "tags": "seo, blog, scrittura",
+    "testo": "Agisci come un esperto SEO copywriter. Crea una struttura dettagliata per un articolo di blog sul tema: [INSERISCI TEMA]. La struttura deve includere: 1. Un titolo H1 accattivante (Clickbait ma onesto). 2. 3-5 sottotitoli H2 ottimizzati per le keyword. 3. Bullet points per ogni sezione che spieghino cosa scrivere. Il tono deve essere [INSERISCI TONO, ES: PROFESSIONALE/DIVERTENTE]."
+  },
+  {
+    "alias": "Developer",
+    "titolo": "Spiegami il Codice (Debug)",
+    "difficolta": "Medio",
+    "tags": "coding, debug, learning",
+    "testo": "Agisci come un Senior Software Engineer. Analizza il seguente snippet di codice: [INCOLLA CODICE QUI]. 1. Spiegami cosa fa riga per riga. 2. Identifica eventuali bug o problemi di sicurezza. 3. Proponi una versione ottimizzata e più pulita (Clean Code)."
+  },
+  {
+    "alias": "Marketing",
+    "titolo": "Piano Editoriale Mensile",
+    "difficolta": "Difficile",
+    "tags": "social media, strategia, instagram",
+    "testo": "Agisci come Social Media Manager. Crea un piano editoriale di 4 settimane per [INSERISCI PIATTAFORMA, ES: LINKEDIN/INSTAGRAM] per un brand che si occupa di [INSERISCI SETTORE]. Includi per ogni post: 1. Idea del contenuto. 2. Caption bozza. 3. Suggerimento per l'immagine/video. 4. 5 Hashtag pertinenti. L'obiettivo è [INSERISCI OBIETTIVO, ES: LEAD GENERATION]."
+  },
+  {
+    "alias": "UX/UI Designer",
+    "titolo": "Checklist Usabilità",
+    "difficolta": "Facile",
+    "tags": "ux, audit, design",
+    "testo": "Agisci come esperto di UX Research. Crea una checklist di 10 punti per valutare l'usabilità di una pagina di [INSERISCI TIPO PAGINA, ES: CHECKOUT E-COMMERCE]. Focalizzati su accessibilità, chiarezza e facilità d'uso per l'utente mobile."
+  },
+  {
+    "alias": "Business",
+    "titolo": "Analisi SWOT",
+    "difficolta": "Medio",
+    "tags": "strategia, business plan, analisi",
+    "testo": "Agisci come consulente aziendale strategico. Esegui un'analisi SWOT (Strengths, Weaknesses, Opportunities, Threats) per [INSERISCI NOME AZIENDA O PROGETTO]. Il contesto è: [DESCRIVI BREVEMENTE LA SITUAZIONE]. Fornisci 3 punti per ogni quadrante e una conclusione strategica finale."
+  }
+]
